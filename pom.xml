@@ -188,7 +188,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.cebbus.bot.api.CebBot</mainClass>
+                            <mainClass>com.cebbus.bot.desktop.CebBot</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
